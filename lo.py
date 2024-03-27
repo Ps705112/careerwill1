@@ -70,7 +70,7 @@ def pull_run(work, cmds):
 	        print(result) 
 bot = Client(
   "CW",
-  bot_token="6415777909:AAE72fd1b1GVkICgNRll8OvHhplORD_57qg",
+  bot_token="5688426079:AAHjy-kbSWpyRrTQJ3IDDsKEGWn8hBGLvuU",
   api_id=15816419,
   api_hash="626ed6dab78881858778d9663682962e"
 )
